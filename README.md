@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacinli
 - 👀 I’m interested in Coding and technology.
-- 🌱 I’m currently proficient in Python backend development, specializing in Django, relational databases, computer networks, and operating systems.
+- 🌱 I’m currently proficient in Python backend development, specializing in Django,FastAPI,GIN relational databases, computer networks, and operating systems.
 - 💞️ I’m looking to collaborate on projects that can help many people.
 - 📫 How to reach me: [git@jacin.me]
 - 😄 Pronouns: [San Jin]
