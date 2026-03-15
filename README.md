@@ -5,6 +5,7 @@
 - 📫 How to reach me: [git@jacin.me]
 - 😄 Pronouns: [San Jin]
 - ⚡ Fun fact: [Fine]
+- 🤖 Blog: [https://jacin.me]
 
 
 <!---
